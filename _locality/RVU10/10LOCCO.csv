@@ -1,0 +1,93 @@
+Carrier Number,Locality Number,State ,Fee Schedule Area ,Counties
+10102,0,Alabama,Alabama,ALL COUNTIES 
+831,1,Alaska,Alaska,ALL COUNTIES 
+3102,0,Arizona,Arizona,ALL COUNTIES 
+520,13,Arkansas,Arkansas,ALL COUNTIES 
+1192,26,California,"Anaheim/Santa Ana, CA","Anaheim/Santa Ana, CA"
+1192,18,California,"Los Angeles, CA","Los Angeles, CA"
+1102,3,California,"Marin/Napa/Solano, CA","Marin/Napa/Solano, CA"
+1102,7,California,"Oakland/Berkley, CA","Oakland/Berkley, CA"
+1102,5,California,"San Francisco, CA","San Francisco, CA"
+1102,6,California,"San Mateo, CA","San Mateo, CA"
+1102,9,California,"Santa Clara, CA","Santa Clara, CA"
+1192,17,California,"Ventura, CA","Ventura, CA"
+1102,99,Rest of California,Rest of California,ALL OTHER COUNTIES
+1192,99,Rest of California,Rest of California,ALL OTHER COUNTIES
+4102,1,Colorado,Colorado,Colorado
+13102,0,Connecticut,Connecticut,Connecticut
+12202,1,DC + MD/VA Suburbs,DC + MD/VA Suburbs,DC + MD/VA Suburbs
+12102,1,Delaware,Delaware,Delaware
+9102,3,"Fort Lauderdale, FL","Fort Lauderdale, FL","Fort Lauderdale, FL"
+9102,4,"Miami, FL","Miami, FL","Miami, FL"
+9102,99,Rest of Florida,Rest of Florida,ALL OTHER COUNTIES
+10202,1,"Atlanta, GA","Atlanta, GA","Atlanta, GA"
+10202,99,Rest of Georgia,Rest of Georgia,ALL OTHER COUNTIES
+1202,1,Hawaii/Guam,Hawaii/Guam,ALL COUNTIES 
+5130,0,Idaho,Idaho,ALL COUNTIES 
+952,16,"Chicago, IL","Chicago, IL","Chicago, IL"
+952,12,"East St. Louis, IL","East St. Louis, IL","East St. Louis, IL"
+952,15,"Suburban Chicago, IL","Suburban Chicago, IL","Suburban Chicago, IL"
+952,99,Rest of Illinois,Rest of Illinois,ALL OTHER COUNTIES
+630,0,Indiana,Indiana,ALL COUNTIES 
+5102,0,Iowa,Iowa,ALL COUNTIES 
+5202,0,Kansas,Kansas,ALL COUNTIES 
+660,0,Kentucky,Kentucky,ALL COUNTIES 
+528,1,"New Orleans, LA","New Orleans, LA","New Orleans, LA"
+528,99,Rest of Louisiana,Rest of Louisiana,ALL OTHER COUNTIES
+14102,3,Southern Maine,Southern Maine,Southern Maine
+14102,99,Rest of Maine,Rest of Maine,ALL OTHER COUNTIES
+12302,1,"Baltimore/Surr. Cntys, MD","Baltimore/Surr. Cntys, MD","Baltimore/Surr. Cntys, MD"
+12302,99,Rest of Maryland,Rest of Maryland,ALL OTHER COUNTIES
+14202,1,Metropolitan Boston,Metropolitan Boston,Metropolitan Boston
+14202,99,Rest of Massachusetts,Rest of Massachusetts,Rest of Massachusetts
+953,1,"Detroit, MI","Detroit, MI","Detroit, MI"
+953,99,Rest of Michigan,Rest of Michigan,ALL OTHER COUNTIES
+954,0,Minnesota,Minnesota,Minnesota
+512,0,Mississippi,Mississippi,Mississippi
+5302,2,"Metropolitan Kansas City, MO","Metropolitan Kansas City, MO","Metropolitan Kansas City, MO"
+5302,1,"Metropolitan St Louis, MO","Metropolitan St Louis, MO","Metropolitan St Louis, MO"
+5302,99,Rest of Missouri,Rest of Missouri,ALL OTHER COUNTIES
+3202,1,Montana,Montana,Montana
+5402,0,Nebraska,Nebraska,Nebraska
+1302,0,Nevada,Nevada,Nevada
+14302,40,New Hampshire,New Hampshire,New Hampshire
+12402,1,Northern NJ,Northern NJ,Northern NJ
+12402,99,Rest of New Jersey,Rest of New Jersey,Rest of New Jersey
+4202,5,New Mexico,New Mexico,New Mexico
+13202,1,"Manhattan, NY","Manhattan, NY","Manhattan, NY"
+13202,2,"NYC Suburbs/Long I., NY","NYC Suburbs/Long I., NY","NYC Suburbs/Long I., NY"
+13202,3,"Poughkpsie/N NYC Suburbs, NY","Poughkpsie/N NYC Suburbs, NY","Poughkpsie/N NYC Suburbs, NY"
+13292,4,"Queens, NY","Queens, NY","Queens, NY"
+13282,99,Rest of New York,Rest of New York,Rest of New York
+5535,0,North Carolina,North Carolina,North Carolina
+3302,1,North Dakota,North Dakota,North Dakota
+883,0,Ohio,Ohio,Ohio
+4302,0,Oklahoma,Oklahoma,Oklahoma
+835,1,"Portland, OR","Portland, OR","Portland, OR"
+835,99,Rest of Oregon,Rest of Oregon,Rest of Oregon
+12502,1,"Metropolitan Philadelphia, PA","Metropolitan Philadelphia, PA","Metropolitan Philadelphia, PA"
+12502,99,Rest of Pennsylvania,Rest of Pennsylvania,Rest of Pennsylvania
+9202,20,Puerto Rico,Puerto Rico,Puerto Rico
+14402,1,Rhode Island,Rhode Island,Rhode Island
+880,1,South Carolina,South Carolina,South Carolina
+3402,2,South Dakota,South Dakota,South Dakota
+10302,35,Tennessee,Tennessee,Tennessee
+4402,31,"Austin, TX","Austin, TX","Austin, TX"
+4402,20,"Beaumont, TX","Beaumont, TX","Beaumont, TX"
+4402,9,"Brazoria, TX","Brazoria, TX","Brazoria, TX"
+4402,11,"Dallas, TX","Dallas, TX","Dallas, TX"
+4402,28,"Fort Worth, TX","Fort Worth, TX","Fort Worth, TX"
+4402,15,"Galveston, TX","Galveston, TX","Galveston, TX"
+4402,18,"Houston, TX","Houston, TX","Houston, TX"
+4402,99,Rest of Texas,Rest of Texas,ALL OTHER COUNTIES
+3502,9,Utah,Utah,ALL COUNTIES 
+14502,50,Vermont,Vermont,ALL COUNTIES 
+904,0,Virginia,Virginia,ALL COUNTIES 
+9202,50,Virgin Islands,Virgin Islands,ALL COUNTIES 
+836,2,"Seattle (King Cnty), WA","Seattle (King Cnty), WA","Seattle (King Cnty), WA"
+836,99,Rest of Washington,Rest of Washington,ALL OTHER COUNTIES
+884,16,West Virginia,West Virginia,ALL COUNTIES 
+951,0,Wisconsin,Wisconsin,ALL COUNTIES 
+3602,21,Wyoming,Wyoming,ALL COUNTIES 
+,,,,
+,,,,
