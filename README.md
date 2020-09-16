@@ -80,7 +80,7 @@ state_time_plotter(hcpcs='A0428', carrier='empire new york')
   *Basic life support fees for Minnesota*
 
 ```python
-state_bar_plotter(year=2020, carrier='tennessee')
+state_bar_plotter(year=2020, carrier='texas')
 ```
   *Bar Plot Plotting Function*
 
