@@ -70,16 +70,18 @@ It can be helpful for state officials to visualize how ambulance fees have chang
 
 Additionally, I created a plotting function that takes in the state and year of interest and outputs a plot of median ambulance fees as shown in Figure 6. As we might expect, rotary wing transport, fixed wing transport, and specialty care transport are far more expensive than ground advanced/basic life support services.
 
-  ![image](/docs/imgs/state_time_series_plotter_function.png)
-
+```python
+state_time_plotter(hcpcs='A0428', carrier='empire new york')
+```
   *Time Series Plotting Function*
 
   ![image](/docs/imgs/minnesota_prices.png)
 
   *Basic life support fees for Minnesota*
 
-  ![image](/docs/imgs/state_bar_plotter_function.png)
-
+```python
+state_bar_plotter(year=2020, carrier='tennessee')
+```
   *Bar Plot Plotting Function*
 
   ![image](/docs/imgs/texas_bar_prices.png)
@@ -91,16 +93,18 @@ It can be helpful for city officials to visualize how ambulance fees have change
 
 Additionally, I created a plotting function that takes in the city and year of interest and outputs a plot of median ambulance fees as shown in Figure 9. As we might expect, rotary wing transport, fixed wing transport, and specialty care transport are far more expensive than ground advanced/basic life support services.
 
-  ![image](/docs/imgs/city_time_series_plotter_function.png)
-
+```python
+city_time_plotter(hcpcs='A0428', carrier='empire new york', locality='manhattan')
+```
   *Time Series Plotting Function*
 
   ![image](/docs/imgs/austin_prices_line.png)
 
   *Basic life support fees for Austin, Texas*
 
-  ![image](/docs/imgs/city_bar_plotter_function.png)
-
+```python
+city_bar_plotter(year=2020, carrier='texas', locality='austin')
+```
   *Bar Plot Plotting Function*
 
   ![image](/docs/imgs/austin_prices_bar.png)
@@ -146,7 +150,9 @@ Simply put, predicted ambulance fees from regression were combined with ambulanc
 #### Revenue Forecasting Tool
 A function was developed so that revenue could be projected for any city in the dataset, for any number of months into future, and for any type of ambulance service (Basic life support, advanced life support, etc.). Simple linear regression, ARIMA forecasting, and revenue calculation are performed within this function and generate three standard plots (see Figure 13).
 
-  ![image](/docs/imgs/revenue_forecast_tool.png)
+```python
+revenue_forecast(df_rides=df_rides, hcpcs='A0428', num_months=36, carrier='florida', locality='miami')
+```
 
   *Revenue Forecasting Function*
 
